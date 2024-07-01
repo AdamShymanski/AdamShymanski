@@ -1,13 +1,14 @@
+
+
 <p align="left">
   👋 Hi there! I'm Adam, a passionate Full Stack Developer with a knack for creating innovative web and mobile applications. With expertise in both front-end and back-end technologies, I thrive on solving complex problems and building efficient, scalable solutions. I'm continuously learning and exploring new technologies to stay at the forefront of the industry.
 </p>
 
 ---
-
 <p align="left">
-  ✨ Aiming for Offensive CybSec<br>
-  🔥 Best at Fullstack Dev<br>
-  🚀 Ready to start new collaboration
+  ✨ Aiming for <b>Offensive CybSec</b><br>
+  🔥 Best at <b>Fullstack Dev</b><br>
+  🚀 Ready to start <b>new collaboration</b>
 </p>
 
 ---
