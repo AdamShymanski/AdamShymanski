@@ -4,7 +4,7 @@
   👋 Hi there! I'm Adam, a passionate Full Stack Developer with a knack for creating innovative web and mobile applications. With expertise in both front-end and back-end technologies, I thrive on solving complex problems and building efficient, scalable solutions. I'm continuously learning and exploring new technologies to stay at the forefront of the industry.
 <br/>
 <br/>
-Aiming for <b>OSCP</b>🐲 within 5 months. Keep your fingers crossed!
+Aiming for becoming<b>web3 sec researcher</b> within few months. Keep your fingers crossed!
 </p>
 
 ---
